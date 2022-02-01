@@ -14,3 +14,17 @@
 *  Square
 *  Power
 *  Square root
+
+### Advantages
+
+* Calculator can solve complicated problems quickly and in an efficient manner.
+* Calculator gives more accurate resukts than counting manually.
+* Calcultor has all formulas for counting process and makes the counting process easier.
+* useful to convert the units of measurements.
+
+### Disadvantages
+
+* People will be dependant on usong calculators for counting.
+* Calculator limits the knowledge of the users.
+* People will be unable to memorize the process of problem solving.
+* Student will not know how to get the result of their questions. 
