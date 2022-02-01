@@ -28,3 +28,10 @@
 * Calculator limits the knowledge of the users.
 * People will be unable to memorize the process of problem solving.
 * Student will not know how to get the result of their questions. 
+
+
+### Swot Analysis
+
+https://images.app.goo.gl/myUjmmKa58Cpkn3q7
+
+
