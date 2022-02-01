@@ -7,10 +7,10 @@
  
  ### Features
  
- Addition
- Substraction
- Multiplication
- Division
- Square
- Power
- Square root
+*  Addition
+* Substraction
+* Multiplication
+*  Division
+*  Square
+*  Power
+*  Square root
