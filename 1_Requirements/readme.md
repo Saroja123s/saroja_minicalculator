@@ -47,3 +47,22 @@
 ### How
 * By entering the numbers.
 
+
+## High Level Requirements
+| ID | Description | 
+| --- | --- | 
+| HR01 | System should be able to get the  first number|
+| HR02 | User should be able to get the second number  | 
+| HR03 | System should recognize the operations | 
+
+
+## Low Level Requirement
+| ID | Description | 
+| --- | --- | 
+| LR01 | System should able to do the addition | 
+| LR02 | System should able to do the substraction |
+| LR03 | System should able to do the multiplication | 
+
+
+
+
