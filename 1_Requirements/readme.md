@@ -30,9 +30,20 @@
 * Student will not know how to get the result of their questions. 
 
 
-### Swot Analysis
+## Swot Analysis
 
 ![SWOT ANALYSIS](https://user-images.githubusercontent.com/94373133/152027690-9120219c-a7f0-4db9-8213-4e5ff1dacbbe.jpeg)
 
+## 4W's 1H
 
+### Who
+* user/ who want 
+### What
+* To calculate 
+### When
+* During the need of calculation
+### Where
+* Laptop, shop, bill generation etc
+### How
+* By entering the numbers.
 
