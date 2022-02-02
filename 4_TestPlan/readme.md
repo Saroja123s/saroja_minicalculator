@@ -13,8 +13,8 @@
 
 |  Test ID | Description  | Expected Input  | Expected Output  | Actual Output  | Result |
 |---|---|---|---|---|---|
-| TID_01  | Device functions  | function values| ON  |ON| PASS  |
-| TID_02  | Device functions  | function values| ON  |ON| PASS  |
-| TID_03  | Device functions  | function values| ON  |ON| PASS  |
-| TID_04  | Device functions  | function values| ON  |ON| PASS  |
-| TID_05 | Device functions  | function values| ON  |ON| PASS  |
+| TID_01  | Device functions  | function values| ON  |ON| TRUE |
+| TID_02  | Device functions  | function values| ON  |ON| TRUE  |
+| TID_03  | Device functions  | function values| ON  |ON| TRUE  |
+| TID_04  | Device functions  | function values| ON  |ON| TRUE  |
+| TID_05 | Device functions  | function values| ON  |ON| TRUE  |
