@@ -62,7 +62,7 @@
 | LR01 | System should able to do the addition | 
 | LR02 | System should able to do the substraction |
 | LR03 | System should able to do the multiplication | 
-
+| LR03 | System should able to do the all operations | 
 
 
 
